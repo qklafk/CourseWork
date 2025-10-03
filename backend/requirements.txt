@@ -1,0 +1,7 @@
+flask
+flask-cors
+pydantic
+psycopg2-binary
+bcrypt
+flask-session
+pydantic[email]
